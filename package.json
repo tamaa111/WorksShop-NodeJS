@@ -1,0 +1,18 @@
+{
+  "name": "workshop-node",
+  "version": "2.0.0",
+  "description": "belajar",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "vendy",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "devDependencies": {}
+}
